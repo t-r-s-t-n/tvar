@@ -1,7 +1,7 @@
 # tvar chrome-extension
 
-1. create folder for the extension files
-2. download and save the files in this folder
+1. download and save the files **Code > Download ZIP**
+2. unpack zip
 3. open the chrome browser and go to url *chrome://extensions/*
 4. at the top right, turn on developer mode
 5. click load unpacked
